@@ -12,7 +12,10 @@ import android.widget.TextView;
 import huaqiang.cn.emojiconlibrary.FaceConversionUtil;
 import huaqiang.cn.emojiconlibrary.FaceRelativeLayout;
 
-
+/**
+ * Created by huaqiang
+ * on 2016-07-11.
+ */
 public class EmoiconActivity extends AppCompatActivity {
     private EditText mEditEmojicon;
     private ImageView mSend;

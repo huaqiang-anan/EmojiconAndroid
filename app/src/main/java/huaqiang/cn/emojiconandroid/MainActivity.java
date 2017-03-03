@@ -7,7 +7,10 @@ import android.view.View;
 
 import huaqiang.cn.emojiconlibrary.FaceConversionUtil;
 
-
+/**
+ * Created by huaqiang
+ * on 2016-07-11.
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
